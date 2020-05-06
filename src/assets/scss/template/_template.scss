@@ -1,5 +1,6 @@
 
 
+
 .header { 
   background: #3d3d3d;
   background-color: #3d3d3d;
@@ -44,7 +45,82 @@
       padding-bottom:5px;
     }
 
+
+
 }
 
 
 
+.tickets-button {
+   background: #000000;
+   background-color: #000000;
+   
+   .columns {
+     padding: 30px 0px !important;
+   }
+
+    a {
+    background-color: #ff7300;
+    border-radius: 5px;
+    border: 1px solid #ff7300;
+    color: #ffffff;
+    display: inline-block;
+    font-size: 21px;
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+    line-height: 70px;
+    text-align: center;
+    width: 270px;
+    text-transform: uppercase;
+   
+  }
+
+}
+
+
+.amc {
+  background: #ffffff;
+   background-color: #ffffff;
+
+  
+
+   h3 {
+     text-transform: uppercase;
+     font-weight:800;
+     padding-bottom:20px;
+     font-size:18px;
+   }
+
+   a {
+    background-color: #ff7300;
+    border-radius: 5px;
+    border: 1px solid #ff7300;
+    color: #ffffff !important;
+    display: inline-block;
+    font-size: 21px;
+    font-weight: bold;
+    text-decoration: none;
+    line-height: 70px;
+    text-align: center;
+    width: 270px;
+    text-transform: uppercase;
+   
+  }
+
+  p {
+    font-weight: 800;
+    padding-top:20px;
+    display:inline-block;
+  }
+
+ img {
+    display: inline-block !important;
+  }
+
+
+}
+
+.clips {
+  padding-top:100px;
+}
