@@ -4,15 +4,23 @@
     border-radius: 5px;
     border: 1px solid #ff7300;
     display: inline-block;
-    font-size: 21px;
+    font-size: 20px;
     color: #ffffff;
-    font-weight: bold;
+    font-weight: 700;
     text-decoration: none;
     line-height: 70px;
     text-align: center;
     width: 270px;
     text-transform: uppercase;
    
+  }
+
+  .link {
+    color:#ff7300 !important;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    
   }
 
 .header { 
@@ -75,6 +83,7 @@
 
    a {
      color: #ffffff;
+     
    }
 
 }
@@ -85,7 +94,8 @@
    background-color: #ffffff;
 
    a {
-    color: #ffffff;
+    color: #ffffff !important;
+    
   }
   
 
@@ -128,10 +138,40 @@
 
     a {
      color: #ffffff;
+    
    }
 
 }
 
- .link {
-      color: #FA7301; 
-    }
+ .movies-1 {
+  background: #e3e3e3;
+
+  img {
+    padding-bottom: 15px;
+  }
+ }
+
+ .movies-2 {
+  background: #e3e3e3;
+
+  img {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+
+ }
+
+
+ .vip-button-2 {
+  background: #e3e3e3;
+  background-color: #e3e3e3;
+  
+  .columns {
+    padding: 30px 0px !important;
+  }
+
+   a {
+    color: #ffffff;
+  }
+
+}
