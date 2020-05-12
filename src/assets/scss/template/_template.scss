@@ -140,7 +140,6 @@
      color: #ffffff;
     
    }
-
 }
 
  .movies-1 {
@@ -174,4 +173,50 @@
     color: #ffffff;
   }
 
+}
+
+
+.pre-release {
+  background: #e3e3e3;
+  background-color: #e3e3e3;
+  .columns {
+    padding-bottom: 10px;
+  }
+   img {
+     padding-bottom: 15px !important;
+   }
+
+   a {
+     
+     padding-bottom: 15px !important;
+   }
+}
+
+.footer {
+  background: #3d3d3d;
+  background-color: #3d3d3d;
+}
+
+.footer img {
+  padding-top: 30px;
+  width: 70px;
+}
+
+.footer h3 {
+  font-size: 14px !important;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.footer-2 {
+  .columns {
+    padding: 20px 30px !important;
+  }
+
+  p {
+    line-height: 30px;
+  }
 }
