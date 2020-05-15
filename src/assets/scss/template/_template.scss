@@ -23,19 +23,20 @@
     
   }
 
+
 .header { 
   background: #3d3d3d;
   background-color: #3d3d3d;
 
   .columns {
-    padding-top: 5px;
+    padding-top: 24px;
     padding-bottom: 5px;
   }
+
 
   h2 {
     font-size: 15px;
     padding-right: 16px; 
-    padding-top:8px;
     color: #ffffff;
     text-transform: uppercase;
     font-weight:700;
@@ -116,11 +117,9 @@
  img {
     display: inline-block !important;
   }
-
- 
-
-
 }
+
+
 
 .clips {
   padding-top:100px;
@@ -146,9 +145,16 @@
   background: #e3e3e3;
 
   img {
+    padding-top: 15px;
     padding-bottom: 15px;
+    margin: 0 auto;
   }
+
+ 
+
  }
+
+
 
  .movies-2 {
   background: #e3e3e3;
@@ -156,6 +162,7 @@
   img {
     padding-top: 15px;
     padding-bottom: 15px;
+    margin: 0 auto;
   }
 
  }
@@ -182,15 +189,19 @@
   .columns {
     padding-bottom: 10px;
   }
-   img {
-     padding-bottom: 15px !important;
-   }
+  img {
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+    margin: 0 auto;
+  }
 
    a {
      
      padding-bottom: 15px !important;
    }
 }
+
+
 
 .footer {
   background: #3d3d3d;
@@ -202,6 +213,8 @@
   width: 70px;
 }
 
+
+
 .footer h3 {
   font-size: 14px !important;
   text-align: center;
@@ -210,6 +223,7 @@
   color: #ffffff;
   font-weight: 700;
 }
+
 
 .footer-2 {
   .columns {
